@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubUsersInfo</string>
+    <string name="avatar_desc">User Avatar</string>
+
+</resources>
